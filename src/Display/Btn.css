@@ -1,0 +1,36 @@
+.load-btn {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  padding: 12px 32px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  background: linear-gradient(135deg, #6c35e0 0%, #8650eb 55%, #9d62f2 100%);
+  box-shadow: 0 4px 15px rgba(108, 53, 224, 0.4);
+}
+
+/* the shine, always running */
+.load-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 60%;
+  height: 100%;
+  background: linear-gradient(
+    120deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.7) 50%,
+    transparent 100%
+  );
+  transform: skewX(-20deg);
+  animation: shine 2.5s infinite;
+}
+
+@keyframes shine {
+  0%        { left: -100%; }
+  60%, 100% { left: 150%; }
+}

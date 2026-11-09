@@ -1,0 +1,24 @@
+.bold{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+.linear {
+  background: linear-gradient(135deg, #6c35e0 0%, #8650eb 55%, #9d62f2 100%);
+}
+.gray{
+    color: wheat;
+}
+.black{
+    font-size: 40px;
+    font-weight: bold;
+}
+.linear2 {
+  background: linear-gradient(135deg, #6c35e0 0%, #8650eb 55%, #9d62f2 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  font-size: 40px;
+  font-weight: bold;
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://i.ibb.co/r2m99xg2/demo-app-1.webp",
+    "title": "Hero Fitness",
+    "companyName": "FitTech Solutions",
+    "id": 1,
+    "description": "Hero Fitness is your personal fitness companion, designed to help you build healthier habits and achieve your fitness goals. Whether you are a beginner or an experienced athlete, the app provides tools to support your daily workout routine.\n\nTrack your exercises, monitor calories, measure workout progress, and create personalized fitness plans. You can also explore different training programs designed for strength, endurance, flexibility, and overall wellness.\n\nStay motivated with daily activity tracking and progress reports. Hero Fitness makes it easier to maintain consistency, improve your lifestyle, and take control of your health.",
+    "size": 45,
+    "reviews": 12500,
+    "ratingAvg": 4.8,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 7830 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Q3dGLyyB/demo-app-2.webp",
+    "title": "Hero Fitness",
+    "companyName": "Finova Labs",
+    "id": 2,
+    "description": "Smart Finance helps you take control of your money through simple and powerful financial management tools. Organize your income, monitor spending habits, and understand where your money goes every month.\n\nCreate monthly budgets, categorize expenses, track savings, and receive useful financial insights. The application provides an easy-to-understand overview of your financial activities so you can make smarter decisions.\n\nWhether you are saving for something special or trying to reduce unnecessary expenses, Smart Finance makes managing personal finances easier, more organized, and more convenient.",
+    "size": 32,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/8LnPfHbL/demo-app-3.webp",
+    "title": "Photo Editor Pro",
+    "companyName": "Pixel Studio",
+    "id": 3,
+    "description": "Photo Editor Pro brings professional photo editing tools directly to your device. Transform ordinary pictures into beautiful images using creative filters, advanced adjustments, and artistic effects.\n\nAdjust brightness, contrast, saturation, sharpness, and colors with easy-to-use editing controls. Explore a variety of filters, crop images, improve image quality, and experiment with different visual styles.\n\nWhether you are editing social media pictures, personal photographs, or creative projects, Photo Editor Pro gives you the freedom to express your creativity and produce stunning results.",
+    "size": 58,
+    "reviews": 15600,
+    "ratingAvg": 4.9,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 10400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LXhgVgMv/demo-app-4.webp",
+    "title": "Task Manager",
+    "companyName": "Productive Inc",
+    "id": 4,
+    "description": "Task Manager is designed to help you organize your daily responsibilities and stay focused on what matters most. Manage personal tasks, professional projects, and important activities from one convenient place.\n\nCreate task lists, set deadlines, organize projects, and use smart reminders to keep track of upcoming responsibilities. You can prioritize important work and monitor your progress as you complete different activities.\n\nWhether you are a student, freelancer, or working professional, Task Manager helps reduce distractions, improve time management, and maintain a more productive daily routine.",
+    "size": 24,
+    "reviews": 6700,
+    "ratingAvg": 4.5,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/V0QqCBLk/demo-app-5.webp",
+    "title": "Travel Explorer",
+    "companyName": "WanderTech",
+    "id": 5,
+    "description": "Travel Explorer makes discovering new destinations easier and more exciting. Explore beautiful places around the world, discover interesting attractions, and find inspiration for your next adventure.\n\nBrowse destination guides, explore popular tourist locations, organize travel plans, and discover useful information before starting your journey. The application helps you keep important travel details organized in one place.\n\nWhether you are planning a weekend getaway or an international vacation, Travel Explorer helps you discover new experiences, explore different cultures, and make every journey more memorable.",
+    "size": 67,
+    "reviews": 9800,
+    "ratingAvg": 4.7,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Cst3FXjq/demo-app-6.webp",
+    "title": "Music Player",
+    "companyName": "SoundWave",
+    "id": 6,
+    "description": "Music Player offers a convenient way to enjoy your favorite songs and organize your personal music collection. Experience a clean interface designed for smooth navigation and comfortable listening.\n\nCreate custom playlists, organize tracks, manage your favorite songs, and explore useful playback controls. Enjoy high-quality audio and customize your listening experience according to your preferences.\n\nWhether you are relaxing at home, studying, working, or traveling, Music Player keeps your favorite music within reach and makes every listening session more enjoyable.",
+    "size": 38,
+    "reviews": 11200,
+    "ratingAvg": 4.6,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/r2m99xg2/demo-app-1.webp",
+    "title": "Weather Forecast",
+    "companyName": "Climate Apps",
+    "id": 7,
+    "description": "Weather Forecast helps you stay informed about changing weather conditions wherever you go. Get useful weather information to plan your daily activities and prepare for different environmental conditions.\n\nCheck current temperatures, explore upcoming forecasts, monitor weather changes, and receive notifications about potentially severe conditions. The application presents important weather information in an easy-to-understand format.\n\nWhether you are planning outdoor activities, traveling, or simply preparing for the day ahead, Weather Forecast helps you make better decisions with convenient weather updates.",
+    "size": 29,
+    "reviews": 5400,
+    "ratingAvg": 4.3,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Q3dGLyyB/demo-app-2.webp",
+    "title": "Learning Academy",
+    "companyName": "EduSmart",
+    "id": 8,
+    "description": "Learning Academy provides an accessible platform for discovering new subjects and developing valuable skills. Learn at your own pace through structured educational content and interactive learning experiences.\n\nExplore video lessons, follow organized courses, practice important concepts, and discover learning materials across different subjects. Personalized learning paths help you focus on your interests and educational goals.\n\nWhether you want to improve your professional skills, explore a new hobby, or strengthen your academic knowledge, Learning Academy makes continuous learning more engaging and convenient.",
+    "size": 52,
+    "reviews": 14300,
+    "ratingAvg": 4.8,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/8LnPfHbL/demo-app-3.webp",
+    "title": "Review Hub",
+    "companyName": "ReviewTech",
+    "id": 9,
+    "description": "Review Hub helps users make informed purchasing decisions by bringing product reviews and customer experiences together. Explore feedback from different users before choosing products or services.\n\nCompare ratings, read customer opinions, discover product advantages, and share your own experiences. Organized review information makes it easier to understand how different products perform in real-world situations.\n\nWhether you are researching electronics, everyday products, or online services, Review Hub provides a convenient place to explore opinions and make more confident decisions.",
+    "size": 21,
+    "reviews": 4200,
+    "ratingAvg": 4.2,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LXhgVgMv/demo-app-4.webp",
+    "title": "Rating Master",
+    "companyName": "Digital Metrics",
+    "id": 10,
+    "description": "Rating Master helps businesses and individuals understand customer satisfaction through organized rating information. Collect feedback and explore rating patterns to gain a clearer picture of user experiences.\n\nAnalyze customer ratings, compare feedback across different categories, and review satisfaction trends through detailed visual insights. The application makes feedback easier to understand and organize.\n\nWhether you manage a business, evaluate a product, or simply want to understand customer opinions, Rating Master provides useful tools for turning ratings into meaningful information.",
+    "size": 26,
+    "reviews": 7600,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/V0QqCBLk/demo-app-5.webp",
+    "title": "Download Manager",
+    "companyName": "FastByte",
+    "id": 11,
+    "description": "Download Manager makes downloading and organizing files easier through a simple and convenient interface. Keep track of your downloads and manage different files without unnecessary complications.\n\nMonitor transfer progress, organize downloaded content, view download history, and manage multiple files efficiently. Useful controls help you maintain better organization and keep important downloads accessible.\n\nWhether you regularly download documents, images, videos, or other files, Download Manager provides a practical way to organize your downloads and maintain a cleaner file management experience.",
+    "size": 18,
+    "reviews": 3900,
+    "ratingAvg": 4.1,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Cst3FXjq/demo-app-6.webp",
+    "title": "App Market",
+    "companyName": "AppWorld",
+    "id": 12,
+    "description": "App Market provides a convenient platform for discovering useful applications across different categories. Explore new digital tools and find applications that match your personal interests and everyday needs.\n\nBrowse available applications, explore their descriptions, compare ratings, and discover useful features before making a choice. Organized application information helps users understand what each app offers.\n\nWhether you are searching for productivity tools, entertainment applications, educational resources, or everyday utilities, App Market makes discovering interesting applications easier and more enjoyable.",
+    "size": 35,
+    "reviews": 10500,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/r2m99xg2/demo-app-1.webp",
+    "title": "Secure Vault",
+    "companyName": "CyberShield",
+    "id": 13,
+    "description": "Secure Vault is designed to help users organize and protect their important digital information. Keep sensitive files and personal documents in one convenient location with an emphasis on privacy and security.\n\nManage stored files, organize important information, and use password protection to help prevent unauthorized access. Its straightforward interface makes managing personal digital content more convenient.\n\nWhether you want to organize private documents, protect important files, or maintain a more secure digital workspace, Secure Vault offers a practical solution for everyday information management.",
+    "size": 41,
+    "reviews": 6100,
+    "ratingAvg": 4.4,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Q3dGLyyB/demo-app-2.webp",
+    "title": "Food Delivery",
+    "companyName": "QuickBite",
+    "id": 14,
+    "description": "Food Delivery makes ordering your favorite meals more convenient by connecting you with nearby restaurants. Explore different food options and discover meals that match your taste and preferences.\n\nBrowse restaurant menus, compare available dishes, place orders, and follow delivery progress through the application. Convenient ordering features help simplify the entire food delivery experience.\n\nWhether you are enjoying a meal at home, ordering lunch during work, or sharing dinner with friends, Food Delivery helps bring delicious food to your doorstep with less effort.",
+    "size": 48,
+    "reviews": 18700,
+    "ratingAvg": 4.9,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/8LnPfHbL/demo-app-3.webp",
+    "title": "Note Keeper",
+    "companyName": "CloudNotes",
+    "id": 15,
+    "description": "Note Keeper gives you a simple and organized space to capture your thoughts, save important information, and keep track of everyday ideas. Create notes whenever inspiration strikes and access your information when you need it.\n\nOrganize notes into different categories, manage important reminders, and keep useful information together. Its straightforward design makes writing, editing, and finding saved notes more convenient.\n\nWhether you are a student preparing study notes, a professional organizing work information, or someone who enjoys writing down ideas, Note Keeper helps you stay organized and never lose track of important thoughts.",
+    "size": 16,
+    "reviews": 4800,
+    "ratingAvg": 4.3,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2100 }
+    ]
+  }
+]
